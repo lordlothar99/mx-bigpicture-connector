@@ -6,4 +6,4 @@ You need to :
 * create an account on [BigPicture], and set the API key (access token) in the ``Config`` entity.
 * read BigPicture [documentation](https://docs.bigpicture.io/api).
 
-[ContactOut]: https://bigpicture.io/
+[BigPicture]: https://bigpicture.io/
