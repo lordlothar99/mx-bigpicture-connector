@@ -3,7 +3,7 @@ Mendix integration with [BigPicture]. BigPicture is a data enrichment online pla
 
 ## Setup
 You need to :
-* create an account on [BigPicture], and set the API key (access token) in the ``Config`` entity.
+* create an account on [BigPicture], and use the API key
 * read BigPicture [documentation](https://docs.bigpicture.io/api).
 
 [BigPicture]: https://bigpicture.io/
